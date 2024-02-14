@@ -3,7 +3,7 @@
 
 
 
-## [HOME](...) |
+## [HOME](...) 
 <!-- [PROJECTS](...) | [RESUME PDF VERSION](...)
 -->
 
@@ -21,7 +21,8 @@
 ## 🤯 Technical Skills
 
 <p align="center">
-    <a href="https://github.com/fersomort"><img src="https://skillicons.dev/icons?i=linux,bash,aws,github,git,docker,vim,html,markdown,wordpress,photoshop,visual studio" /></a>
+    <a href="https://github.com/fersomort"><img src="https://skillicons.dev/icons?github"></a>
+   <!-- <a href="https://github.com/fersomort"><img src="https://skillicons.dev/icons?i=linux,bash,aws,github,git,docker,vim,html,markdown,wordpress,photoshop,visual studio" /></a>-->
 </p>
 
 
