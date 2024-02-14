@@ -3,8 +3,9 @@
 
 
 
-## [HOME](...) | [PROJECTS](...) | [RESUME PDF VERSION](...)
-
+## [HOME](...) |
+<!-- [PROJECTS](...) | [RESUME PDF VERSION](...)
+-->
 
 
 
