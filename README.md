@@ -1,28 +1,21 @@
-
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&pause=1000&color=3FF799&width=435&lines=Hello+there%2C++I'm+Emilie!+Welcome+to+my+page!;I'm+a+self+taught+gal.+Always+learning+new+things.;I+have+a+knack+for+Network+Security+and+a+cup+of+joe.;With+10+years+of+experience++as+a+Technical+Support.;Help%2C+Teach%2C+and+Learn+are+always+my+mantra.)](https://git.io/typing-svg) -->
 
-
-
-## [HOME](...) 
+## [HOME](https://github.com/fersomort/fersomort.io) 
 <!-- [PROJECTS](...) | [RESUME PDF VERSION](...)
 -->
 
 
 
-
-
-
-![Main Landing Photo](https://drive.google.com/uc?export=view&id=1JgZG8PanzgYb1vNJzhlf9pBgxXjbIWGK)
-
+<!--![Main Landing Photo](https://drive.google.com/uc?export=view&id=1JgZG8PanzgYb1vNJzhlf9pBgxXjbIWGK)
+-->
 
 
 
 
 ## 🤯 Technical Skills
 
-<p align="center">
-    <a href="https://github.com/fersomort"><img src="https://skillicons.dev/icons?github"></a>
-   <!-- <a href="https://github.com/fersomort"><img src="https://skillicons.dev/icons?i=linux,bash,aws,github,git,docker,vim,html,markdown,wordpress,photoshop,visual studio" /></a>-->
+<p>
+   <a href="https://github.com/fersomort"><img src="https://skillicons.dev/icons?i=linux,bash,aws,github,git,html,visual studio" /></a>
 </p>
 
 
@@ -48,7 +41,7 @@
 
 ## 🚀 About Me
 
-I am a 
+I am an undergraduate student at NJIT and Cybersecurity Fellow at The Knowledge House. 
 
 
 ## Cybersecurity Tools:
@@ -62,7 +55,7 @@ I am a
 
 
 
-<-- ## 👩‍💻 [My Resume](https://github.com/emiliedionisio/emiliedionisio.github.io/blob/main/EmilieDionisio-Res2023%26.pdf) -->
+<!-- ## 👩‍💻 [My Resume](https://github.com/emiliedionisio/emiliedionisio.github.io/blob/main/EmilieDionisio-Res2023%26.pdf) -->
 
 ---
 
